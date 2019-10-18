@@ -7,7 +7,7 @@ body{
 }
 img {
   float: left;
-  border-radius: 15px;
+  border-radius: 14px;
   border: 1px solid blue;
   margin: 10px;
 }
