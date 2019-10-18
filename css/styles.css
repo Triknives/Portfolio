@@ -3,4 +3,9 @@ img {
 }
 h2 {
   line-height: 3px;
+  font-style: italic;
+}
+
+.welcome{
+text-align: center;
 }
