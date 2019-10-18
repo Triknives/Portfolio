@@ -6,9 +6,9 @@
 
 ## Description
 
-_This page is specifically designed as a practice landing page for the Portfolio section of my website. It will be updated frequently with most recent projects, or projects that best represent the skills I wish to showcase to future employers.
+_This page is specifically designed as a practice landing page for the Portfolio section of my website. It will be updated frequently with most recent projects, or projects that best represent the skills I wish to showcase to future employers._
 
-This page was further created to better demonstrate the use of basic HTML and CSS when building a website. Bootstrap was also utilized in this project to better explore further elements that can be utilized and edited quickly during site creation._
+_This page was further created to better demonstrate the use of basic HTML and CSS when building a website. Bootstrap was also utilized in this project to better explore further elements that can be utilized and edited quickly during site creation._
 
 ## Setup/Installation Requirements
 
@@ -18,7 +18,7 @@ This page was further created to better demonstrate the use of basic HTML and CS
 
 ## Known Bugs
 
-_While at this time there are no specific bugs effecting the site, aside from some stray margins to be tinkered with, I would like to take a moment to reflect on what could have been done differently. I feel that this type of set up or landing page would best be structured in a GRID display. As it would allow for better adjustments of the content, and elements while providing a solid clean structure to work with. I would further like to see the "Projects" list broken into separate panels and given ample space for descriptions. }_
+_While at this time there are no specific bugs effecting the site, aside from some stray margins to be tinkered with, I would like to take a moment to reflect on what could have been done differently. I feel that this type of set up or landing page would best be structured in a GRID display. As it would allow for better adjustments of the content, and elements while providing a solid clean structure to work with. I would further like to see the "Projects" list broken into separate panels and given ample space for descriptions._
 
 ## Support and contact details
 
