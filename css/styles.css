@@ -1,6 +1,7 @@
 body{
   margin-left:100px;
   margin-right:100px;
+  margin-top:5px;
 }
 img {
   float: left;
@@ -9,7 +10,7 @@ img {
 }
 
 h2 {
-  line-height: 3px;
+  line-height: 10px;
   font-style: italic;
 }
 
@@ -18,28 +19,27 @@ text-align: center;
 }
 
 .education {
-  border: 3px solid blue;
+  border: 1px solid blue;
   padding: 3px;
-  width: 46%;
+  width: 45%;
   float: left;
   display: inline-block;
-  margin: 3px;
+  margin: 2px;
 }
 
 .hobbies {
-  border: 3px solid blue;
+  border: 1px solid blue;
   padding: 3px;
-  width: 46%;
+  width: 52%;
   float: left;
   display: inline-block;
-  margin: 3px;
+  margin: 2px;
 }
 
 .projects{
-  border: 3px solid green;
+  border: 1px solid green;
   padding: 3px;
-  width: 100%;
+  width: 97.5%;
   float: left;
   display: inline-block;
-  margin: 3px;
 }
