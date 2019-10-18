@@ -1,6 +1,13 @@
+body{
+  margin-left:100px;
+  margin-right:100px;
+}
 img {
   float: left;
+  border-radius: 15px;
+  margin: 5px;
 }
+
 h2 {
   line-height: 3px;
   font-style: italic;
@@ -8,4 +15,31 @@ h2 {
 
 .welcome{
 text-align: center;
+}
+
+.education {
+  border: 2px solid green;
+  padding: 2px;
+  width: auto;
+  float: left;
+  display: inline-block;
+  margin: 7px;
+}
+
+.projects{
+  border: 2px solid green;
+  padding: 2px;
+  width: auto;
+  float: left;
+  display: inline-block;
+  margin: 7px;
+}
+
+.hobbies {
+  border: 2px solid green;
+  padding: 2px;
+  width: auto;
+  float: left;
+  display: inline-block;
+  margin: 7px;
 }
