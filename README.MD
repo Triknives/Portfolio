@@ -8,7 +8,7 @@
 
 _This page is specifically designed as a practice landing page for the Portfolio section of my website. It will be updated frequently with most recent projects, or projects that best represent the skills I wish to showcase to future employers._
 
-_This page was further created to better demonstrate the use of basic HTML and CSS when building a website. Bootstrap was also utilized in this project to better explore further elements that can be utilized and edited quickly during site creation._
+_This page was further created to better demonstrate the use of basic HTML and CSS when building a website. Bootstrap was also utilized in this project to better explore further elements that can be utilized and edited quickly during site creation. Here is a link to the current GH Page associated with this project: https://triknives.github.io/Portfolio/. _
 
 ## Setup/Installation Requirements
 
